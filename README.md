@@ -15,5 +15,6 @@ Don't forget to change password
 
 - 1.) You can "add book in the database(or library)"
 - 2.) You can "delete book in the database(or library)"
-- 3.) You can "issue book from the database(or library) by changing the status(see in the project)"
+- 3.) You can "issue book from the database(or library) by changing the status of the book (see in the project)"
 - 4.) You can "view the book list".
+- 5.) You can "return book from the database(or library) by changing the status of the book (see in the project)"

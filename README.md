@@ -6,9 +6,9 @@
 
 Also run the following commands in mysql (before running "main.py"):
 - create database db1;
-
+![Screenshot](new-books-table.jpg)
 - create table books(bid varchar(20) primary key, title varchar(30), author varchar(30), status varchar(30));
-
+![Screenshot](new-books-issued-table1.jpg)
 - create table books_issued(bid varchar(20) primary key, issuedto varchar(30));
 
 

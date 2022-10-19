@@ -4,12 +4,12 @@
 
 - To run this project run "main.py"
 
-Also create run following commands in mysql(before running "main.py"):
-- create database db1;
+Also run the following commands in mysql (before running "main.py"):
+---- create database db1;
 - create table books(bid varchar(20) primary key, title varchar(30), author varchar(30), status varchar(30));
 - create table books_issued(bid varchar(20) primary key, issuedto varchar(30));
 
-- Don't forget to change password
+Don't forget to change password
 
 - Following functionalities have been added in this project:
 
